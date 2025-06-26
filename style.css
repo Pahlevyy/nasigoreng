@@ -11,7 +11,7 @@
   background-color: rgba(0, 0, 0, 0.5); /* Gelap semi transparan */
 }
 
-.img-menu {
+.menu-image {
   width: 200px;
   height: 150px;
   object-fit: cover;
@@ -56,4 +56,5 @@ footer .social a:focus {
   width: 100%;
   cursor: pointer;
 }
+
 
