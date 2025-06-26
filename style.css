@@ -45,3 +45,9 @@ footer .social a:hover,
 footer .social a:focus {
   color: rgb(10, 10, 10);             /* Warna saat hover/klick/tab */
 }
+
+#modalImage {
+  max-width: 100%;
+  height: auto;
+}
+
