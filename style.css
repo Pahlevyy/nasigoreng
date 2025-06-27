@@ -1,4 +1,8 @@
 
+.navbar-nav .nav-link {
+  white-space: nowrap;
+}
+
 
 #modalImage {
   border: 4px solid #fff; /* Warna putih, bisa diubah */
